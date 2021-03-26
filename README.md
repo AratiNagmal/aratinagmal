@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on PySpark, Airflow, AWS.
-- 🌱 I’m currently learning PrestoDB.
 - 💬 Ask me about data engineering, software development, programming, functional programming.
 - 📫 How to reach me: nagmalarati6@gmail.com
 - ⚡ Fun fact: There are over 700 different programming languages!
